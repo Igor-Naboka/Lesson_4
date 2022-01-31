@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "DraftingMono-Bold";
+  src: url("DraftingMono-Bold.woff2") format("woff2"), url("DraftingMono-Bold.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DraftingMono-SemiBold";
+  src: url("../fonts/DraftingMono-SemiBold.woff2") format("woff2"),
+    url("../fonts/DraftingMono-SemiBold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DraftingMono-Regular";
+  src: url("../fonts/DraftingMono-Regular.woff2") format("woff2"),
+    url("../fonts/DraftingMono-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

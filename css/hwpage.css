@@ -1,0 +1,73 @@
+@import "null.css";
+
+@import "fonts.css";
+
+#example {
+  color: #ff7f50;
+}
+
+#black-hole {
+  color: #1a85f1;
+  text-transform: capitalize;
+  text-shadow: 3px 4px 5px rgb(95,8,241, 0.5);
+}
+
+#footprints .p-example {
+  color: #dc143c;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+body {
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #2a3744;
+
+  line-height: 1.6;
+}
+
+.btn-back {
+  font-family: "DraftingMono-Bold", serif;
+  font-size: 50px;
+  color: #dc143c;
+  text-decoration: underline;
+}
+
+.sub-title {
+  font-family: "DraftingMono-Bold", serif;
+  font-size: 26px;
+}
+
+.title {
+  font-family: "DraftingMono-Bold", serif;
+  font-size: 50px;
+  text-shadow: 2px 2px 3px rgba(2, 37, 44, 0.5);
+}
+
+.fact-title {
+  font-weight: 900;
+  font-size: 30px;
+}
+.fact-title.mercury-title {
+  text-transform: uppercase;
+  text-decoration: line-through;
+  color: #dc143c;
+}
+
+.venus-title {
+  font-family: "DraftingMono-Regular";
+  font-size: 22px;
+  text-decoration: overline;
+  font-style: oblique;
+}
+
+.footer {
+  text-align: center;
+  background: #000;
+}
+.footer-btn {
+  color: #f0f8ff;
+  font-size: 22px;
+  text-transform: uppercase;
+}
